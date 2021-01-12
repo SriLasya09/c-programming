@@ -12,4 +12,4 @@ int main() {
     printf("Size of char: %zu byte\n", sizeof(charType));
     
     return 0;
-}
+} 
